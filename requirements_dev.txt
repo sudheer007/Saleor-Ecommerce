@@ -10,7 +10,7 @@ attrs==21.4.0; python_version >= "3.7" and python_full_version < "3.0.0" and pyt
 authlib==1.0.1
 authorizenet==1.1.4
 babel==2.10.1; python_version >= "3.6"
-beautifulsoup4==4.7.1
+beautifulsoup4==4.11.2
 beautifultable==0.7.0
 before-after==1.0.1
 billiard==3.6.4.0; python_version >= "3.7"
